@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Welcome to IndoAlley.com
+title: Welcome to IndoAlley.com
 # email: contact.ragavillc@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   This is the website for IndoAlley.com . Visit our store on www.amazon.com/stores/indoalley
