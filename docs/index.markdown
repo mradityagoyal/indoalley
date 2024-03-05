@@ -4,4 +4,4 @@ layout: home
 
 {{ content }}
 
-# Welcome to my IndoAlley.com !!  We will be launching soon!
+# Welcome to IndoAlley.com !!  We will be launching soon!
