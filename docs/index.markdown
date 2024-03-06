@@ -4,6 +4,6 @@ layout: home
 
 {{ content }}
 
-# Welcome to IndoALley. 
-## Browse our [products](www.amazon.com/shops/indoalley). 
+# Welcome to IndoAlley. 
+## Browse our [products](http://www.amazon.com/shops/indoalley). 
 
