@@ -4,4 +4,6 @@ layout: home
 
 {{ content }}
 
-# Welcome to IndoAlley.com !!  We will be launching soon!
+# Welcome to IndoALley. 
+## Browse our [products](www.amazon.com/shops/indoalley). 
+
