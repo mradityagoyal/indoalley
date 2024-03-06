@@ -17,6 +17,9 @@ We are passionate about bringing you authentic and ethically sourced pieces that
 * Supporting Local Artisans: We are committed to supporting traditional craftsmanship and fair trade practices. By purchasing from IndoAlley, you directly contribute to the economic well-being of our artisan partners and help preserve their age-old skills.
 * Sustainable Practices: We prioritize eco-friendly materials and responsible production processes to minimize our environmental impact and ensure the longevity of our products.
 
+
+
+
 ## Coming Soon: Browse our [products](http://www.amazon.com/shops/indoalley).
 
 ### [Contact Us](mailto:contact.ragavill.com)
