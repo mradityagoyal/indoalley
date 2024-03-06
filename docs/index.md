@@ -6,7 +6,7 @@ layout: home
 
 # Welcome to IndoAlley. 
 
-## Handmade Home Decor with a Heart
+## Handmade Home Decor made by friendly hands in the Alleys across India.
 
 Welcome to IndoAlley, your one-stop shop for unique and beautiful handmade home decor crafted by skilled artisans in India!
 
