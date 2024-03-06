@@ -2,13 +2,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://indoalley.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
-
-remote_theme: pages-themes/architect@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+
+# remote_theme: pages-themes/architect@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: IndoAlley - handifracts from India
 description: Offering a wide range of excuisite handicrafts from India.
